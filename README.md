@@ -1,6 +1,6 @@
 # Object Oriented Programming - Composition 
 
-### OOP activity about how to make compositions in java.
+### OOP activity to make a alogorithm thats prints a summary with customer information, their chosen products and the order total.
 
 #### UML below: 
 
